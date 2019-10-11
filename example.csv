@@ -1,0 +1,7 @@
+action	sid	tag1	tag2	tag3	difficulty	text	translation
+update	my_id01	Articles	Nominative		1	Die[Das,Der]{Nominativ,Singular,Feminin} Mutter kocht und die[der,dem]{Nominativ,Plural,Neutrum} Kinder kaufen ein.	The mother cooks and the children go shopping.
+					1	Der[Die,Das]{Nominativ,Singular,Maskulin} Junge lernt und das[die,der]{Nominativ,Plural,Neutrum} Mädchen spielt.	The boy learns and the girl plays.
+update	my_id02	Articles	Accusative		2	Die[der,das]{Nominativ,Singular,Feminin} Tür macht ein[eine,einer]{Akkusativ,Singular,Neutrum} komisches Geräusch.	The door makes a strange noise.
+update	my_id05	Articles	Accusative		2	Wer tut dem[der,das]{Dativ,Singular,Maskulin} Lehrer einen[einem,eines]{Akkusativ,Singular,Neutrum} Gefallen?	Who does the teacher a favour?
+update	my_id07	Articles	Nominative		3	Ein[Eine,Eines]{Nominativ,Singular,Maskulin} Tag ist wie der[die,dem,das]{Nominativ,Singular,Maskulin} andere.	A day is like the other.
+update	my_id08	Prepositions			2	Das Kind geht nicht aus[bei,während]{lokal,Dativ} dem Haus ohne[statt,mit]{modal,Akkusativ} sein Spiel.	The child doesn't leave the house without his toy.
