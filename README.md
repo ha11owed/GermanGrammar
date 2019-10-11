@@ -1,6 +1,15 @@
 ﻿# German Grammar
 Improve your German grammar with practical exercises.
 
+## Screenshots of the application
+
+![alt text](GermanGrammar_01_Home.png "Home screen")
+![alt text](GermanGrammar_10_Exercise.png "Starting an exercise")
+![alt text](GermanGrammar_11_Exercise_Hint.png "Hint for an exercise")
+![alt text](GermanGrammar_13_Exercise_Done.png "Exercise is done")
+![alt text](GermanGrammar_20_Statistics.png "Statistics")
+
+
 ## Exercise input format specifications
 
 ### Exercise description
